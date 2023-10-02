@@ -290,8 +290,6 @@ L.Curve = L.Path.extend({
 					var strokedashoffset=10
 				}
 				
-				this.options.animate.duration=length
-				
 				this._path.pathLength.baseVal=calibrated_length;
 				this._path.animate([
 					{strokeDashoffset: strokedashoffset},
