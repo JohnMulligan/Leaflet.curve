@@ -1,6 +1,6 @@
 {
   "name": "@johnconnor_mulligan/leaflet.curve",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Fork of elfalem's leaflet.curve",
   "main": "dist/leaflet.curve.js",
   "types": "types/leaflet.curve.d.ts",
